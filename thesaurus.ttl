@@ -1,0 +1,647 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A13CD1> a skos:Concept ;
+    skos:altLabel "Applikationstechnik"@de,
+        "Behandlung"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "A13CD1" ;
+    skos:prefLabel "Eingriff"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A18D95> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "A18D95" ;
+    skos:prefLabel "Physischer Objektzustand"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A4G52F> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "A4G52F" ;
+    skos:prefLabel "Spuren früherer Konservierungs- /Restaurierunseingriffe"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/ADD53A> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "ADD53A" ;
+    skos:prefLabel "Einschätzung"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AF1F5C> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:definition "(z.B. Labornummer, Dokumentationsnummern, Werkblattnummer, etc.)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "AF1F5C" ;
+    skos:prefLabel "Maßnahmenkennnummer"@de ;
+    skos:scopeNote "Bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AFD671> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "AFD671" ;
+    skos:prefLabel "Datum der Sicherheitsbewertung"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B5DD1A> a skos:Concept ;
+    skos:altLabel "Objekttitel"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "B5DD1A" ;
+    skos:prefLabel "Objektansprache"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BB78D2> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6> ;
+    skos:definition "(z. B. PSA, Quarantänebereich)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "BB78D2" ;
+    skos:prefLabel "Getroffene Schutzmaßnahmen"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BC5B57> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "BC5B57" ;
+    skos:prefLabel "Physischer Objektzustand"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGC9F3> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "BGC9F3" ;
+    skos:prefLabel "Weitere Objekteigenschaften"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGG5A6> a skos:Concept ;
+    skos:altLabel "Befund"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "BGG5A6" ;
+    skos:prefLabel "Untersuchungsergebnis"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGGCA4> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6> ;
+    skos:definition "(z. B. chemisch, mikrobiologisch, physikalisch)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "BGGCA4" ;
+    skos:prefLabel "Art der Gefährdung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C11192> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C11192" ;
+    skos:prefLabel "Monitoring"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C33D85> a skos:Concept ;
+    skos:altLabel "Grund der Beprobung"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C33D85" ;
+    skos:prefLabel "Anlass der Beprobung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C364G1> a skos:Concept ;
+    skos:altLabel "Mischungsverhältnis"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C364G1" ;
+    skos:prefLabel "Konzentration"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C3A182> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C3A182" ;
+    skos:prefLabel "Konservatorische Bedingungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C421BF> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C421BF" ;
+    skos:prefLabel "Herstellungsdatum"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C4BCF8> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C4BCF8" ;
+    skos:prefLabel "Herstellungstechnik"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C6A532> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C6A532" ;
+    skos:prefLabel "Anlass der Maßnahme"@de ;
+    skos:scopeNote "empfohlen"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C79561> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C79561" ;
+    skos:prefLabel "Zuständige Person"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C7C3B7> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C7C3B7" ;
+    skos:prefLabel "aktuelles Gewicht"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C8CG15> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "C8CG15" ;
+    skos:prefLabel "Zuständige Person (Beprobung)"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CA1BC5> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CA1BC5" ;
+    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CB7747> a skos:Concept ;
+    skos:altLabel "Name der Probe"@de,
+        "Nummer der Probe"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CB7747" ;
+    skos:prefLabel "Kennung der Probe"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD3341> a skos:Concept ;
+    skos:altLabel "Fundort"@de,
+        "Herstellungsort"@de,
+        "kulturelle Verortung"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CD3341" ;
+    skos:prefLabel "Herkunft"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD613> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:definition "(Datum)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CDD613" ;
+    skos:prefLabel "Beginn der Maßnahme/ Ende der Maßnahme"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CF3C22> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CF3C22" ;
+    skos:prefLabel "Grund der Untersuchung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CFGDA3> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "CFGDA3" ;
+    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D1CFD5> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D1CFD5" ;
+    skos:prefLabel "verwendetes Material (Untersuchung)"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D3AF3A> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D3AF3A" ;
+    skos:prefLabel "Datum der Beprobung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D4A13D> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D4A13D" ;
+    skos:prefLabel "Schadensursache"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D78721> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D78721" ;
+    skos:prefLabel "Erstellungsdatum des Berichts"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D865C3> a skos:Concept ;
+    skos:altLabel "Hersteller"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D865C3" ;
+    skos:prefLabel "Bezugsquelle"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D866AD> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D866AD" ;
+    skos:prefLabel "Objektmaterial"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D941BB> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D941BB" ;
+    skos:prefLabel "Präsentationsvorgaben"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D949G6> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D949G6" ;
+    skos:prefLabel "Untersuchungsgerät"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9A6FA> a skos:Concept ;
+    skos:altLabel "Entnahmemethode"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D9A6FA" ;
+    skos:prefLabel "Beprobungsmethode"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9G51G> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "D9G51G" ;
+    skos:prefLabel "Datum der Erfassung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DBC278> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "DBC278" ;
+    skos:prefLabel "aktuelle Maße"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F1BA31> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F1BA31" ;
+    skos:prefLabel "Objekttyp"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F285B2> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F285B2" ;
+    skos:prefLabel "Bearbeiter*in des Berichts"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F2A45F> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F2A45F" ;
+    skos:prefLabel "Eingangsdatum"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F3G8D1> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F3G8D1" ;
+    skos:prefLabel "Ansprechpartner*in"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F58F6D> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F58F6D" ;
+    skos:prefLabel "Stelle der Beprobung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F7D3DB> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F7D3DB" ;
+    skos:prefLabel "Kennzeichennummer"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F87124> a skos:Concept ;
+    skos:altLabel "Gerät"@de ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F87124" ;
+    skos:prefLabel "Werkzeug"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F9GB13> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "F9GB13" ;
+    skos:prefLabel "Datierung"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FBFFF5> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6> ;
+    skos:definition "Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "FBFFF5" ;
+    skos:prefLabel "Gefährdungshinweise"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FC3322> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "FC3322" ;
+    skos:prefLabel "aktueller Standort"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FD2B2B> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "FD2B2B" ;
+    skos:prefLabel "Probenbeschreibung"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G73958> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G73958" ;
+    skos:prefLabel "Datum der Untersuchung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G76A78> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G76A78" ;
+    skos:prefLabel "Schöpfer*in"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CA9> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G79CA9" ;
+    skos:prefLabel "Umgebungsbedingungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CAC> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G79CAC" ;
+    skos:prefLabel "Verpackungs- und Transportempfehlungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G7F25F> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G7F25F" ;
+    skos:prefLabel "Zuständige Person (Untersuchung)"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G814D2> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "G814D2" ;
+    skos:prefLabel "Zeitaufwand (in Stunden)"@de ;
+    skos:scopeNote "(optional)"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GB6DF3> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "GB6DF3" ;
+    skos:prefLabel "Objektbeziehung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GDF23F> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "GDF23F" ;
+    skos:prefLabel "Verweis/Kennnummer"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF41DG> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:definition "(z.B. Werkstatt/Atelier)"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "GF41DG" ;
+    skos:prefLabel "Zuständige Restaurierungseinrichtung"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF9C49> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:notation "GF9C49" ;
+    skos:prefLabel "Handhabungsempfehlungen"@de ;
+    skos:scopeNote "empfohlen"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/Pflicht> skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D4A13D> ;
+    skos:notation "AA6941" ;
+    skos:prefLabel "Schadensphänomene"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GDF23F> ;
+    skos:notation "CDD6B5" ;
+    skos:prefLabel "Dokumentationsform"@de ;
+    skos:scopeNote "bedingte Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/Pflicht> ;
+    skos:definition "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D78721>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F285B2> ;
+    skos:notation "AC16G1" ;
+    skos:prefLabel "Administrative Metadaten"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CFGDA3> ;
+    skos:notation "AC1786" ;
+    skos:prefLabel "Zustandserfassung"@de ;
+    skos:scopeNote "Pflicht"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A18D95>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9G51G> ;
+    skos:notation "C2488A" ;
+    skos:prefLabel "Nachzustand"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/ADD53A>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AFD671> ;
+    skos:notation "CCCC7G" ;
+    skos:prefLabel "Letzte Sicherheitsbewertung"@de ;
+    skos:scopeNote "optional"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D1CFD5>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D949G6> ;
+    skos:notation "DAB4B7" ;
+    skos:prefLabel "Untersuchungsmethode"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A> ;
+    skos:notation "F52262" ;
+    skos:prefLabel "Zustandsbeschreibung"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C364G1>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C421BF>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D865C3> ;
+    skos:notation "CGC619" ;
+    skos:prefLabel "Verwendetes Material"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BB78D2>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGGCA4>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FBFFF5> ;
+    skos:notation "B7B8B6" ;
+    skos:prefLabel "Sicherheit & Arbeitsschutz"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA> a skos:Concept ;
+    skos:broader <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262> ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A4G52F>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BC5B57>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CA1BC5>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CA9> ;
+    skos:notation "A8ABBA" ;
+    skos:prefLabel "Vorzustand"@de ;
+    skos:scopeNote "Pflicht"@de .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGG5A6>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CF3C22>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G73958>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G7F25F> ;
+    skos:notation "B3FCA1" ;
+    skos:prefLabel "Untersuchung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C11192>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C3A182>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D941BB>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CAC>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF9C49> ;
+    skos:notation "C93638" ;
+    skos:prefLabel "Präventive Konservierung"@de ;
+    skos:scopeNote "empfohlen"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F> a skos:Concept ;
+    skos:altLabel "Probeentnahme"@de ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C33D85>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C8CG15>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CB7747>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D3AF3A>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9A6FA>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F58F6D>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FD2B2B> ;
+    skos:notation "CD5C3F" ;
+    skos:prefLabel "Beprobung"@de ;
+    skos:scopeNote "bedingte Pflicht"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGC9F3>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C4BCF8>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C7C3B7>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D866AD>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DBC278>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F1BA31>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FC3322> ;
+    skos:notation "DA2D73" ;
+    skos:prefLabel "Objektbeschreibung"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B5DD1A>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD3341>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F2A45F>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F3G8D1>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F7D3DB>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F9GB13>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G76A78>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GB6DF3> ;
+    skos:notation "B51DAF" ;
+    skos:prefLabel "Objektkennzeichnung"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG> a skos:Concept ;
+    skos:inScheme <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> ;
+    skos:narrower <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A13CD1>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AF1F5C>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C79561>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD613>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F87124>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G814D2>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF41DG> ;
+    skos:notation "DA9CGG" ;
+    skos:prefLabel "Durchgeführte Maßnahme"@de ;
+    skos:topConceptOf <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> .
+
+<https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten> a skos:ConceptScheme ;
+    dc:creator "TWG Standards" ;
+    dc:description "Sammlung relevanter Metadaten des Faches."@de ;
+    dc:title "Metadatenvokabular Konservierung/Restaurierung"@de ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rights "CC BY 4.0" ;
+    dcterms:subject "Konservierung"@de,
+        "Metadaten"@de,
+        "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/" ;
+    skos:hasTopConcept <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C6A532>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG>,
+        <https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262> .
+

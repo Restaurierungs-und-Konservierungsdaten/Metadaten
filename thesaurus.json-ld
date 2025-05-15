@@ -1,0 +1,2943 @@
+[
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGG5A6",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Befund"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "BGG5A6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Untersuchungsergebnis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D78721",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D78721"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Erstellungsdatum des Berichts"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF9C49",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "GF9C49"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Handhabungsempfehlungen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D865C3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Hersteller"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D865C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Bezugsquelle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CA9",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G79CA9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Umgebungsbedingungen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GDF23F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CDD6B5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Dokumentationsform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C8CG15",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C8CG15"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zuständige Person (Beprobung)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G814D2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G814D2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zeitaufwand (in Stunden)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "(optional)"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C33D85",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Grund der Beprobung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C33D85"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Anlass der Beprobung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CA9"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CA1BC5"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BC5B57"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A4G52F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Vorzustand"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F3G8D1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F3G8D1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Ansprechpartner*in"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGGCA4",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "(z. B. chemisch, mikrobiologisch, physikalisch)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "BGGCA4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Art der Gefährdung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D1CFD5",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D1CFD5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "verwendetes Material (Untersuchung)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AF1F5C",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "(z.B. Labornummer, Dokumentationsnummern, Werkblattnummer, etc.)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "AF1F5C"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Maßnahmenkennnummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B5DD1A",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Objekttitel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "B5DD1A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objektansprache"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BC5B57",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "BC5B57"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Physischer Objektzustand"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF41DG"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AF1F5C"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C79561"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD613"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G814D2"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A13CD1"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F87124"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Durchgeführte Maßnahme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B5DD1A"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F7D3DB"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F9GB13"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD3341"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F2A45F"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F3G8D1"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G76A78"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GB6DF3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objektkennzeichnung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D866AD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D866AD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objektmaterial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9A6FA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Entnahmemethode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D9A6FA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Beprobungsmethode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD3341",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Fundort"
+      },
+      {
+        "@language": "de",
+        "@value": "kulturelle Verortung"
+      },
+      {
+        "@language": "de",
+        "@value": "Herstellungsort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CD3341"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Herkunft"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CF3C22",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CF3C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Grund der Untersuchung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F7D3DB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F7D3DB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Kennzeichennummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C79561",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C79561"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zuständige Person"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CA1BC5",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CA1BC5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Erfassung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Probeentnahme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C8CG15"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D3AF3A"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CB7747"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FD2B2B"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C33D85"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F58F6D"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9A6FA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Beprobung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CFGDA3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "AC1786"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zustandserfassung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C11192",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C11192"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Monitoring"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D4A13D"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "AA6941"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Schadensphänomene"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C364G1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Mischungsverhältnis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C364G1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Konzentration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BB78D2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "(z. B. PSA, Quarantänebereich)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "BB78D2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Getroffene Schutzmaßnahmen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G73958",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G73958"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Untersuchung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FBFFF5",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "FBFFF5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Gefährdungshinweise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F52262"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zustandsbeschreibung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F1BA31"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGC9F3"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D866AD"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C4BCF8"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DBC278"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C7C3B7"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FC3322"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objektbeschreibung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF41DG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "(z.B. Werkstatt/Atelier)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "GF41DG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zuständige Restaurierungseinrichtung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G7F25F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G7F25F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Zuständige Person (Untersuchung)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D1CFD5"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D949G6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "DAB4B7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Untersuchungsmethode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CFGDA3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CFGDA3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Erfassung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AFD671"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/ADD53A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CCCC7G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Letzte Sicherheitsbewertung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GB6DF3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "GB6DF3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objektbeziehung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGC9F3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "BGC9F3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Weitere Objekteigenschaften"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GF9C49"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D941BB"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C3A182"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CAC"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C11192"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Präventive Konservierung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F87124",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Gerät"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F87124"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Werkzeug"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A4G52F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A8ABBA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "A4G52F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Spuren früherer Konservierungs- /Restaurierunseingriffe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C3A182",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C3A182"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Konservatorische Bedingungen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD613",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "(Datum)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CDD613"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Beginn der Maßnahme/ Ende der Maßnahme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G7F25F"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G73958"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CF3C22"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGG5A6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "B3FCA1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Untersuchung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A13CD1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Behandlung"
+      },
+      {
+        "@language": "de",
+        "@value": "Applikationstechnik"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "A13CD1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Eingriff"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DBC278",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "DBC278"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "aktuelle Maße"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9G51G",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D9G51G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Erfassung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/Pflicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "de",
+        "@value": "administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D78721"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F285B2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "AC16G1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Administrative Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FBFFF5"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BGGCA4"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/BB78D2"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "B7B8B6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Sicherheit & Arbeitsschutz"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G76A78",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G76A78"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Schöpfer*in"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FC3322",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "FC3322"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "aktueller Standort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/FD2B2B",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "FD2B2B"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Probenbeschreibung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D3AF3A",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D3AF3A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Beprobung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A18D95",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "A18D95"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Physischer Objektzustand"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D4A13D",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AA6941"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D4A13D"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Schadensursache"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AFD671",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "AFD671"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datum der Sicherheitsbewertung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C6A532",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C6A532"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Anlass der Maßnahme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C7C3B7",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C7C3B7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "aktuelles Gewicht"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D865C3"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C364G1"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C421BF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CGC619"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Verwendetes Material"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/G79CAC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "G79CAC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Verpackungs- und Transportempfehlungen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/ADD53A",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CCCC7G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "ADD53A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Einschätzung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C421BF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CGC619"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C421BF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Herstellungsdatum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "optional"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C4BCF8",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C4BCF8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Herstellungstechnik"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F285B2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F285B2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Bearbeiter*in des Berichts"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F2A45F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F2A45F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Eingangsdatum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/GDF23F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CDD6B5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "GDF23F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Verweis/Kennnummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "bedingte Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "TWG Standards"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "de",
+        "@value": "Sammlung relevanter Metadaten des Faches."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "de",
+        "@value": "Metadatenvokabular Konservierung/Restaurierung"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@value": "CC BY 4.0"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@language": "de",
+        "@value": "Konservierung"
+      },
+      {
+        "@language": "de",
+        "@value": "Restaurierung"
+      },
+      {
+        "@language": "de",
+        "@value": "Metadaten"
+      }
+    ],
+    "http://purl.org/vocab/vann/preferredNamespaceUri": [
+      {
+        "@value": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#hasTopConcept": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC1786"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B3FCA1"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C6A532"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA9CGG"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B7B8B6"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D949G6",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DAB4B7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D949G6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Untersuchungsgerät"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C2488A",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F52262"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D9G51G"
+      },
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/A18D95"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "C2488A"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Nachzustand"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/D941BB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/C93638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "D941BB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Präsentationsvorgaben"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F1BA31",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/DA2D73"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F1BA31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Objekttyp"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CB7747",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Name der Probe"
+      },
+      {
+        "@language": "de",
+        "@value": "Nummer der Probe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "CB7747"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Kennung der Probe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F9GB13",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/B51DAF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F9GB13"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Datierung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "empfohlen"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/F58F6D",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/CD5C3F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "F58F6D"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Stelle der Beprobung"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "de",
+        "@value": "Pflicht"
+      }
+    ]
+  },
+  {
+    "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/Pflicht",
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://github.com/Restaurierungs-und-Konservierungsdaten/Metadaten/AC16G1"
+      }
+    ]
+  }
+]

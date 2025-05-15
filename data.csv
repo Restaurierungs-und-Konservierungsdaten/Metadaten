@@ -1,0 +1,89 @@
+notation,prefLabel,altLabel,definition,broader,note (source),scope
+B51DAF,Objektkennzeichnung,,,top,DIN EN 16095:2012-10,
+B5DD1A,Objektansprache,Objekttitel,,B51DAF,,Pflicht
+F7D3DB,Kennzeichennummer,,,B51DAF,,Pflicht
+F9GB13,Datierung,,,B51DAF,,empfohlen
+CD3341,Herkunft,Fundort|kulturelle Verortung|Herstellungsort,,B51DAF,DIN EN 16095: 2012-10,empfohlen
+F2A45F,Eingangsdatum,,,B51DAF,,Pflicht
+F3G8D1,Ansprechpartner*in,,,B51DAF,,optional
+G76A78,Schöpfer*in,,,B51DAF,DIN EN 16095:2012-10,optional
+GB6DF3,Objektbeziehung,,,B51DAF,,bedingte Pflicht
+A11ACA,,,,,,
+DA2D73,Objektbeschreibung,,,top,,
+F1BA31,Objekttyp,,,DA2D73,,Pflicht
+BGC9F3,Weitere Objekteigenschaften,,,DA2D73,,optional
+D866AD,Objektmaterial,,,DA2D73,,Pflicht
+C4BCF8,Herstellungstechnik,,,DA2D73,,empfohlen
+DBC278,aktuelle Maße,,,DA2D73,,
+C7C3B7,aktuelles Gewicht,,,DA2D73,,optional
+FC3322,aktueller Standort,,,DA2D73,,Pflicht
+GC6983,,,,,,
+F52262,Zustandsbeschreibung,,,top,,
+A8ABBA,Vorzustand,,,F52262,,Pflicht
+G79CA9,Umgebungsbedingungen,,,A8ABBA,,empfohlen
+CA1BC5,Datum der Erfassung,,,A8ABBA,,Pflicht
+BC5B57,Physischer Objektzustand,,,A8ABBA,,Pflicht
+AA6941,Schadensphänomene,,,A8ABBA,,Pflicht
+D4A13D,Schadensursache,,,AA6941,,optional
+A4G52F,Spuren früherer Konservierungs- /Restaurierunseingriffe,,,A8ABBA,,empfohlen
+C2488A,Nachzustand,,,F52262,,Pflicht
+D9G51G,Datum der Erfassung,,,C2488A,,Pflicht
+A18D95,Physischer Objektzustand,,,C2488A,,Pflicht
+DA4158,,,,,,
+AC1786,Zustandserfassung,,,top,,Pflicht
+CDD6B5,Dokumentationsform,,,AC1786,,bedingte Pflicht
+GDF23F,Verweis/Kennnummer,,,CDD6B5,,bedingte Pflicht
+CFGDA3,Datum der Erfassung,,,AC1786,,Pflicht
+G98FD4,,,,,,
+B3FCA1,Untersuchung,,,top,,bedingte Pflicht
+G7F25F,Zuständige Person (Untersuchung),,,B3FCA1,,Pflicht
+G73958,Datum der Untersuchung,,,B3FCA1,,Pflicht
+CF3C22,Grund der Untersuchung,,,B3FCA1,,Pflicht
+DAB4B7,Untersuchungsmethode,,,B3FCA1,,Pflicht
+D1CFD5,verwendetes Material (Untersuchung),,,DAB4B7,,empfohlen
+D949G6,Untersuchungsgerät,,,DAB4B7,,empfohlen
+BGG5A6,Untersuchungsergebnis ,Befund,,B3FCA1,,Pflicht
+D6A11G,,,,,,
+CD5C3F,Beprobung ,Probeentnahme,,top,,bedingte Pflicht
+C8CG15,Zuständige Person (Beprobung),,,CD5C3F,,Pflicht
+D3AF3A,Datum der Beprobung,,,CD5C3F,,Pflicht
+CB7747,Kennung der Probe,Name der Probe| Nummer der Probe,,CD5C3F,,Pflicht
+FD2B2B,Probenbeschreibung,,,CD5C3F,,empfohlen
+C33D85,Anlass der Beprobung,Grund der Beprobung,,CD5C3F,,bedingte Pflicht
+F58F6D,Stelle der Beprobung,,,CD5C3F,,Pflicht
+D9A6FA,Beprobungsmethode,Entnahmemethode,,CD5C3F,,Pflicht
+BAA258,,,,,,
+C6A532,Anlass der Maßnahme,,,top,,empfohlen
+F72743,,,,,,
+DA9CGG,Durchgeführte Maßnahme,,,top,,
+GF41DG,Zuständige Restaurierungseinrichtung ,,(z.B. Werkstatt/Atelier) ,DA9CGG,,Pflicht
+AF1F5C,Maßnahmenkennnummer ,,"(z.B. Labornummer, Dokumentationsnummern, Werkblattnummer, etc.) ",DA9CGG,,Bedingte Pflicht
+C79561,Zuständige Person ,,,DA9CGG,,Pflicht
+CDD613,Beginn der Maßnahme/ Ende der Maßnahme ,,(Datum),DA9CGG,,Pflicht
+G814D2,Zeitaufwand (in Stunden) ,,,DA9CGG,,(optional)
+A13CD1,Eingriff,Behandlung | Applikationstechnik,,DA9CGG,,Pflicht
+CGC619,Verwendetes Material ,,,DA9CGG,,Pflicht
+D865C3,Bezugsquelle,Hersteller,,CGC619,,optional
+C364G1,Konzentration,Mischungsverhältnis,,CGC619,,optional
+C421BF,Herstellungsdatum,,,CGC619,,optional
+F87124,Werkzeug,Gerät,,DA9CGG,,empfohlen
+FGF575,,,,,,
+B7B8B6,Sicherheit & Arbeitsschutz,,,top,,bedingte Pflicht
+FBFFF5,Gefährdungshinweise,,"Kurzbeschreibung relevanter Risiken (z. B. Schädlingsbefall, Schimmel, Biozide, Altlasten etc.)",B7B8B6,,Pflicht
+BGGCA4,Art der Gefährdung,,"(z. B. chemisch, mikrobiologisch, physikalisch)",B7B8B6,,bedingte Pflicht
+BB78D2,Getroffene Schutzmaßnahmen,,"(z. B. PSA, Quarantänebereich)",B7B8B6,,bedingte Pflicht
+CCCC7G,Letzte Sicherheitsbewertung,,,B7B8B6,,optional
+AFD671,Datum der Sicherheitsbewertung,,,CCCC7G,,empfohlen
+ADD53A,Einschätzung,,,CCCC7G,,empfohlen
+D9G356,,,,,,
+C93638,Präventive Konservierung,,,top,,empfohlen
+GF9C49,Handhabungsempfehlungen,,,C93638,,empfohlen
+D941BB,Präsentationsvorgaben,,,C93638,,empfohlen
+C3A182,Konservatorische Bedingungen,,,C93638,,empfohlen
+G79CAC,Verpackungs- und Transportempfehlungen,,,C93638,,empfohlen
+C11192,Monitoring,,,C93638,,empfohlen
+F5G576,,,,,,
+AC16G1,Administrative Metadaten,,administrative Angaben zu dem vorliegenden Bericht und seinen Inhalten,Pflicht,,
+D78721,Erstellungsdatum des Berichts,,,AC16G1,,
+F285B2,Bearbeiter*in des Berichts,,,AC16G1,,
+G76B7G,,,,,,
