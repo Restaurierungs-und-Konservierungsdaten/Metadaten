@@ -31,6 +31,12 @@
       "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular"
     }
   ],
+  "TextOrUri": [
+    "Text"
+  ],
+  "Verpflichtungsgrad": [
+    "optional"
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -176,24 +182,21 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "doc:Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@language"
-    },
-    "doc:TextOrUri": {
+    "TextOrUri": {
       "@id": "doc:TextOrUri",
-      "@container": "@language"
+      "@container": "@set"
     },
-    "doc:Wiederholbar": {
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
       "@id": "doc:Wiederholbar",
-      "@container": "@language"
+      "@type": "xsd:boolean"
     },
-    "doc:EmpfohleneVokabulare": {
+    "EmpfohleneVokabulare": {
       "@id": "doc:EmpfohleneVokabulare",
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@set"
     }
   }
 }
