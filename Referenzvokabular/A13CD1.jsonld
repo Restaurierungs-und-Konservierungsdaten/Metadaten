@@ -86,6 +86,9 @@
       "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular"
     }
   ],
+  "Wiederholbar": [
+    "Nein"
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -241,7 +244,7 @@
     },
     "Wiederholbar": {
       "@id": "doc:Wiederholbar",
-      "@type": "xsd:boolean"
+      "@container": "@set"
     },
     "EmpfohleneVokabulare": {
       "@id": "doc:EmpfohleneVokabulare",

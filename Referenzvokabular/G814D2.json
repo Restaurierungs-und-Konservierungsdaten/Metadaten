@@ -209,7 +209,7 @@
     },
     "Wiederholbar": {
       "@id": "doc:Wiederholbar",
-      "@type": "xsd:boolean"
+      "@container": "@set"
     },
     "EmpfohleneVokabulare": {
       "@id": "doc:EmpfohleneVokabulare",

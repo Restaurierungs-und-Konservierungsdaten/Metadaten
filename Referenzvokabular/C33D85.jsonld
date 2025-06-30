@@ -89,6 +89,9 @@
   "Verpflichtungsgrad": [
     "bedingte Pflicht"
   ],
+  "Wiederholbar": [
+    "Ja"
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -244,7 +247,7 @@
     },
     "Wiederholbar": {
       "@id": "doc:Wiederholbar",
-      "@type": "xsd:boolean"
+      "@container": "@set"
     },
     "EmpfohleneVokabulare": {
       "@id": "doc:EmpfohleneVokabulare",
