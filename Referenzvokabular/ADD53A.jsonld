@@ -1,0 +1,222 @@
+{
+  "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/ADD53A",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Objektbeschreibung"
+  },
+  "definition": {
+    "de": "Oberbegriff für Informationen, die die Beschaffenheit des Objektes näher beschreiben"
+  },
+  "note": {
+    "de": [
+      "Begriff nach DIN EN 16095:2012-10"
+    ]
+  },
+  "notation": [
+    "ADD53A"
+  ],
+  "narrower": [
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/AF1F5C",
+      "prefLabel": {
+        "de": "Objekttyp"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/AFD671",
+      "prefLabel": {
+        "de": "Weitere Objekteigenschaften"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/B14C4A",
+      "prefLabel": {
+        "de": "Objektmaterial"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/B3FCA1",
+      "prefLabel": {
+        "de": "Herstellungstechnik"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/B51DAF",
+      "prefLabel": {
+        "de": "aktuelle Maße"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/B5DD1A",
+      "prefLabel": {
+        "de": "aktuelles Gewicht"
+      }
+    },
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular/B7B8B6",
+      "prefLabel": {
+        "de": "aktueller Standort"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
