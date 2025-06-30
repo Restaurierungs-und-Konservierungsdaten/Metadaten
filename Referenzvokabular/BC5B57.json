@@ -12,16 +12,6 @@
   "definition": {
     "de": "Eindeutiger Hinweis, an welchem Ort die Dokumentation(en) zu finden ist/sind. Dies kann zum Beispiel eine URI oder URL zum entsprechenden Datensatz sein oder bei analogen Daten eine Identifikationsnummer oder Angabe zum Standort der Ablage."
   },
-  "editorialNote": {
-    "de": [
-      "Text"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
-  },
   "notation": [
     "BC5B57"
   ],
@@ -53,6 +43,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -184,6 +175,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

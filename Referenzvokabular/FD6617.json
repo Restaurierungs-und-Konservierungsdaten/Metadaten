@@ -7,16 +7,6 @@
   "definition": {
     "de": "Sammeloberbegriff zur Dokumentation regelmäßiger Kontrollmaßnahmen des Objektzustandes und der Umgebungsbedingungen zur frühzeitigen Erkennung von Veränderungen und Einleitung entsprechender (Gegen-)Maßnahmen"
   },
-  "historyNote": {
-    "de": [
-      "x"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
-  },
   "notation": [
     "FD6617"
   ],
@@ -74,6 +64,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -205,6 +196,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

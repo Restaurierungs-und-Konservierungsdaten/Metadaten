@@ -7,16 +7,6 @@
   "definition": {
     "de": "Angabe ob Kontrolle auf Schädlingsbefall, Schimmelbildung oder ander biologische Aktivität am Objekt oder in dessen unmittelbarer Umgebung durchgeführt wurde."
   },
-  "editorialNote": {
-    "de": [
-      "Text (Ja/Nein)"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
-  },
   "notation": [
     "G73958"
   ],
@@ -48,6 +38,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -179,6 +170,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

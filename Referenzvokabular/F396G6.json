@@ -7,11 +7,6 @@
   "definition": {
     "de": "Oberbegriff zu Angaben der zuletzt durchgeführten Risikoanalyse und Beurteilung der Arbeitssicherheit"
   },
-  "scopeNote": {
-    "de": [
-      "optional"
-    ]
-  },
   "notation": [
     "F396G6"
   ],
@@ -57,6 +52,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -188,6 +184,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

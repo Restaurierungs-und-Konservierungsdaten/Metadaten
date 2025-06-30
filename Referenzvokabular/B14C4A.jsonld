@@ -12,21 +12,6 @@
   "definition": {
     "de": "Angaben zum Material bzw. den Materialien aus dem/aus denen das Objekt besteht. \r\r\n\r\r\nIdealerweise sollte auch die Belastbarkeit dieser Angaben mit erfasst werden, zum Beispiel ob zur Materialbestimmung eine naturwissenschaftliche Analyse verwendet wurde oder ob sie lediglich auf einer visuellen Begutachtung des Objektes beruht. \r\r\n\r\r\nBeispiel: \"Bronze (Ergebnis RFA)\", \"Buntmetall (Ergebnis visuelle Begutachtung) \""
   },
-  "editorialNote": {
-    "de": [
-      "URI"
-    ]
-  },
-  "historyNote": {
-    "de": [
-      "x"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "Pflicht"
-    ]
-  },
   "notation": [
     "B14C4A"
   ],
@@ -58,6 +43,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -189,6 +175,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

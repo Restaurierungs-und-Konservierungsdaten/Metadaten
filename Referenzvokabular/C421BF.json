@@ -12,16 +12,6 @@
   "definition": {
     "de": "Bezeichnung oder Nummer, mit der die jeweilige Untersuchung eindeutig identifiziert werden kann. Der genaue Aufbau der Kennung kann individuell gestaltet werden. Wichtig ist, dass eindeutig zugeordnet werden kann, auf welche konkrete Untersuchung sich die Angaben beziehen. \r\r\n\r\r\nBeispiel: 2025-05-13_RFA_1 oder XY_24601"
   },
-  "editorialNote": {
-    "de": [
-      "Text"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
-  },
   "notation": [
     "C421BF"
   ],
@@ -53,6 +43,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -184,6 +175,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

@@ -7,16 +7,6 @@
   "definition": {
     "de": "Benennung der Einrichtung, die die Untersuchung durchgeführt hat. \r\r\n\r\r\nBesonders wenn dies von einer externen Einrichtung durchgeführt wird, ist die Erfassung zu empfehlen.\r\r\nIn Fällen, in denen bei der Veröffentlichung des Datensatzes die zuständige Person nicht genannt werden kann/darf, sollte stattdessen zumindest die zuständige Einrichtung im Datensatz enthalten sein."
   },
-  "editorialNote": {
-    "de": [
-      "Text/URI"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "empfohlen"
-    ]
-  },
   "notation": [
     "C3A182"
   ],
@@ -48,6 +38,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -179,6 +170,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }

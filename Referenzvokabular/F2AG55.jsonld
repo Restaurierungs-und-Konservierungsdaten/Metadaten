@@ -7,21 +7,6 @@
   "definition": {
     "de": "Dokumentation der bereits umgesetzten und/oder während der Objektbehandlung einzuhaltenden Schutzmaßnahmen zur Minimierung der Gefährdung. Einschließlich persönlicher Schutzausrüstung (PSA), technischer und organisatorischer Maßnahmen.\r\r\n\r\r\nBeispiele: Tragen von Schutzhandschuhen, Arbeiten unter Abzug/ im Quarantänebereich, Objekt eingeschweißt"
   },
-  "editorialNote": {
-    "de": [
-      "Text"
-    ]
-  },
-  "historyNote": {
-    "de": [
-      "x"
-    ]
-  },
-  "scopeNote": {
-    "de": [
-      "bedingte Pflicht"
-    ]
-  },
   "notation": [
     "F2AG55"
   ],
@@ -53,6 +38,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -184,6 +170,18 @@
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
       "@container": "@set"
+    },
+    "doc:Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad"
+    },
+    "doc:TextOrUri": {
+      "@id": "doc:TextOrUri"
+    },
+    "doc:Wiederholbar": {
+      "@id": "doc:Wiederholbar"
+    },
+    "doc:EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare"
     }
   }
 }
