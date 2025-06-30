@@ -179,16 +179,23 @@
       "@container": "@set"
     },
     "doc:Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad"
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@language"
     },
     "doc:TextOrUri": {
-      "@id": "doc:TextOrUri"
+      "@id": "doc:TextOrUri",
+      "@container": "@language"
     },
     "doc:Wiederholbar": {
-      "@id": "doc:Wiederholbar"
+      "@id": "doc:Wiederholbar",
+      "@container": "@language"
     },
     "doc:EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare"
+      "@id": "doc:EmpfohleneVokabulare",
+      "@container": [
+        "@language",
+        "@set"
+      ]
     }
   }
 }
